@@ -13,5 +13,5 @@ Software Engineering Undergraduate<br> <br>Build. Learn. Repeat.
 ![](https://streak-stats.demolab.com/?user=dehansa-dissa&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dehansa-dissa&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-![Snake animation](https://github.com/dehansa-dissa/dehansa-dissa/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/dehansa-dissa/dehansa-dissa/output/github-contribution-grid-snake-dark.svg)
 
