@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Dehansa 👋</h1>
+<h1 align="center">Hello, I'm Dehansa Dissanayake 👋</h1>
 <h3 align="center">Build. Learn. Repeat.</h3>
 <br>
 <p  align="center">
